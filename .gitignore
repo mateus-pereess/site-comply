@@ -1,0 +1,20 @@
+# Arquivos internos: ficam só no computador, nunca vão para o GitHub
+.claude/
+integracao-google/
+LEIA-ME.md
+CONFIGURAR-PLANILHA.md
+
+# Segredos e configurações locais
+.env
+.env.*
+*.key
+*.pem
+
+# Lixo de sistema/editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+node_modules/
+.vscode/
+.idea/
